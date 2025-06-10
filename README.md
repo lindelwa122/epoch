@@ -4,7 +4,7 @@ Epoch is a small version control system inspired by Git. It uses similar command
 
 ## How to install
 
-Fork this repo, clone the project into your machine, and run --- to install Epoch in your system. You may want to be inside a virtual environment. Now, run `epochvc --help` to see commands you can run.
+Fork this repo, clone the project into your machine, and run `pip install .` to install Epoch in your system. You may want to be inside a virtual environment. Now, run `epochvc --help` to see commands you can run.
 
 ## How to contribute
 
