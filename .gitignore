@@ -1,0 +1,7 @@
+/.epoch/*
+/build/
+/epochvc.egg-info/
+/calculator.py
+/*.txt
+/__pycache__/
+

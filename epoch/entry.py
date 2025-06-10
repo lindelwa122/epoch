@@ -1,4 +1,4 @@
-from epochvc import EpochVersionControl
+from epoch.epochvc import EpochVersionControl
 from argparse import ArgumentParser
 
 def main():
